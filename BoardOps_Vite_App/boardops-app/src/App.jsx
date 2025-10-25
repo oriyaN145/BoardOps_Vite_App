@@ -1,5 +1,5 @@
 import React, { useEffect, useMemo, useState } from 'react';
-import "./BoardOps.css";
+import "./App.css";
 // ========================================= //
 //  BoardOps – Corporate Secretary React MVP  //
 //  Fully self-contained (no external imports) //
