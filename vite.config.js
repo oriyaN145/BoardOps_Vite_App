@@ -3,5 +3,5 @@ import react from '@vitejs/plugin-react'
 
 export default defineConfig({
   plugins: [react()],
-  base: '/BoardOps_Vite_App/'
+  base: '/Board_Vite_App/', // 👈 critical for GitHub Pages
 })
